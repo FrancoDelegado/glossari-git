@@ -1,7 +1,0 @@
-# FORK
-
-**Definició:** La función principal del fork es copiar el repositorio original y deja realizar cambios sin modificar el original.
-
-**Exemple:** En un proyecto donde haya muchos usuarios.
-
-**Relacionat amb:** Branch, Pull, Push...
