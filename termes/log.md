@@ -1,4 +1,4 @@
-# Nom del terme
+# Nom del terme Log
 
 **Definició:** Es el registro o el historial de cambios de un repositorio de git, que permite consultar quien lo ha modificado
 
