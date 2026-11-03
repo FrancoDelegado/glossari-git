@@ -4,4 +4,4 @@
  
  **Exemple:** Quan necessitem canviar de la branca main a una altra per fer canvis en el projecte. 
  
- **Relacionat** amb: Està relacionat amb el terme merge i branch
+ **Relacionat** amb: Està relacionat amb el terme merge i branch.
