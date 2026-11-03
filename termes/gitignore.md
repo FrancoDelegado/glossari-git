@@ -2,6 +2,6 @@
 
 **Definició:** Se trata de un fichero en el cual se introsucen los nombres de otros que no queremos que se publiquen en nuestros repositorios de github
 
-**Exemple:** 
+**Exemple:** .vlass, .env, .pyc, etc.
 
-**Relacionat amb:** altre-terme, altre-terme
+**Relacionat amb:** push, pull ,etc.
